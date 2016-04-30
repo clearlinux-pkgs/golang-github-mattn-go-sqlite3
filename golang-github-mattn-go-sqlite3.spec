@@ -4,7 +4,7 @@
 #
 Name     : golang-github-mattn-go-sqlite3
 Version  : 467f50b0c026317ad28fc2c0a08aab6f755cfc7a
-Release  : 2
+Release  : 3
 URL      : https://github.com/mattn/go-sqlite3/archive/467f50b0c026317ad28fc2c0a08aab6f755cfc7a.tar.gz
 Source0  : https://github.com/mattn/go-sqlite3/archive/467f50b0c026317ad28fc2c0a08aab6f755cfc7a.tar.gz
 Summary  : No detailed summary available
